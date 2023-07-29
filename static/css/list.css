@@ -1,0 +1,19 @@
+.title {
+    font-weight: 400 !important;
+}
+
+.item {
+    border-radius: 15px;
+    padding: 30px;
+    margin-bottom: 10px;
+    background-color: rgb(247, 247, 247, 0.5);
+}
+
+.item:hover {
+    transform: scale(1.01);
+    background-color: rgb(247, 247, 247);
+}
+
+.item:hover a {  
+        color: #5badf0 !important;
+}

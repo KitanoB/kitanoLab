@@ -1,0 +1,25 @@
+baseURL = "https://kitanolab.com/"
+languageCode = "fr-fr"
+title = "KitanoLab"
+theme = "mini"
+
+[params]
+  author = "Kitano Bjorgssen"
+  bio = "Software Engineer"
+  enableRSS = true
+  enableComments = true
+  description = "Mon parcours dans la computer science"
+  keywords = "blog, tech, computer, computer science, algorithm, developer"
+  profilePicture = "/assets/takeshi_logo_white.png"
+  twitter = "KitanoBjorgssen"
+  github = "KitanoBjorgssen"
+  colorScheme = "auto"
+  showBorder = false
+  mainSections = ["post"]
+  showFooter = true
+  showViewCounter = true
+  hiddenPostSummaryInHomePage = true
+  customCSS = ["css/list.css"]
+
+[taxonomies]
+  tag = "tags"
