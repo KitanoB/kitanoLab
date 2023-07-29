@@ -3,15 +3,15 @@
 }
 
 .item {
-    border-radius: 15px;
+    border-radius: 15px !important;
     padding: 30px;
     margin-bottom: 10px;
-    background-color: rgb(247, 247, 247, 0.5);
+    background-color: rgb(247, 247, 247, 0.5) !important;
 }
 
 .item:hover {
-    transform: scale(1.01);
-    background-color: rgb(247, 247, 247);
+    transform: scale(1.01) !important;
+    background-color: rgb(247, 247, 247) !important;
 }
 
 .item:hover a {  

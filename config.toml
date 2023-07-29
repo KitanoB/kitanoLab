@@ -1,7 +1,9 @@
-baseURL = "https://kitanolab.com/"
+baseURL = "https://kitanob.github.io/kitanoLab/"
 languageCode = "fr-fr"
-title = "KitanoLab"
+title = "KitanoB"
 theme = "mini"
+features = ["fast", "minimalist", "responsive"]
+licence = "MIT"
 
 [params]
   author = "Kitano Bjorgssen"
@@ -10,16 +12,13 @@ theme = "mini"
   enableComments = true
   description = "Mon parcours dans la computer science"
   keywords = "blog, tech, computer, computer science, algorithm, developer"
-  profilePicture = "/assets/takeshi_logo_white.png"
-  twitter = "KitanoBjorgssen"
-  github = "KitanoBjorgssen"
   colorScheme = "auto"
   showBorder = false
   mainSections = ["post"]
-  showFooter = true
+  showFooter = false
   showViewCounter = true
   hiddenPostSummaryInHomePage = true
-  customCSS = ["css/list.css"]
+  customCSS = ["/css/list.css"]
 
 [taxonomies]
   tag = "tags"
