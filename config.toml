@@ -18,7 +18,20 @@ licence = "MIT"
   showFooter = false
   showViewCounter = true
   hiddenPostSummaryInHomePage = true
-  customCSS = ["/kitanoLab/css/list.css"]
+  customCSS = ["css/list.css"]
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/kitanoLab/"
+    weight     = 0
+
+    [[menu.main]]
+    identifier = "archive"
+    name       = "Archive"
+    url        = "/posts/"
+    weight     = 1
 
 [taxonomies]
   tag = "tags"
