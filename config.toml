@@ -1,4 +1,5 @@
 baseURL = "https://kitanob.github.io/kitanoLab/"
+canonifyurls = true
 languageCode = "fr-fr"
 title = "KitanoB"
 theme = "mini"
@@ -8,7 +9,7 @@ licence = "MIT"
 [params]
   author = "Kitano Bjorgssen"
   bio = "Software Engineer"
-  enableRSS = true
+  enableRSS = false
   enableComments = true
   description = "Mon parcours dans la computer science"
   keywords = "blog, tech, computer, computer science, algorithm, developer"
@@ -18,7 +19,20 @@ licence = "MIT"
   showFooter = false
   showViewCounter = true
   hiddenPostSummaryInHomePage = true
-  customCSS = ["/css/list.css"]
+  customCSS = ["css/list.css"]
+
+[menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 0
+
+    [[menu.main]]
+    identifier = "archive"
+    name       = "Archive"
+    url        = "/posts/"
+    weight     = 1
 
 [taxonomies]
   tag = "tags"
