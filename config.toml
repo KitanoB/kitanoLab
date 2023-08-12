@@ -18,7 +18,7 @@ licence = "MIT"
   showFooter = false
   showViewCounter = true
   hiddenPostSummaryInHomePage = true
-  customCSS = ["/css/list.css"]
+  customCSS = ["/kitanoLab/css/list.css"]
 
 [taxonomies]
   tag = "tags"
