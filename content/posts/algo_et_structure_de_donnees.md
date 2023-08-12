@@ -2,7 +2,7 @@
 title = "2 - Algorithmique et structures de données: Fondamentaux et Applications"
 description = "article about algorithmic"
 date = "2023-07-28"
-author = "Kitano Bjorgssen"
+author = "Kitano B"
 enableComments = true
 +++
 

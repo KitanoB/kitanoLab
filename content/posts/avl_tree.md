@@ -2,7 +2,7 @@
 title = "X - Arbe avl"
 description = "article about algorithmic"
 date = "2023-07-28"
-author = "Takeshi Bjorgssen"
+author = "Kitano B"
 enableComments = true
 draft = true
 +++

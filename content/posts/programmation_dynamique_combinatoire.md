@@ -2,7 +2,7 @@
 title = "4 - Algorithmique et structures de données: Mon parcours d'apprentissage"
 description = "article about algorithmic"
 date = "2023-08-01"
-author = "Kitano Bjorgssen"
+author = "Kitano B"
 enableComments = true
 +++
 

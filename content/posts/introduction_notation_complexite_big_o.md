@@ -2,7 +2,7 @@
 title = "3 - Introduction aux notations de complexité: Big O"
 description = "big o notation"
 date = "2023-07-30"
-author = "Kitano Bjorgssen"
+author = "Kitano B"
 enableComments = true
 +++
 
