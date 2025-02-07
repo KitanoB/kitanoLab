@@ -1,0 +1,22 @@
+
+.item {
+    padding: 20px 25px;
+    background-color: rgba(224, 224, 224, 0.203);
+    border-radius: 10px;
+}
+
+.item:hover {
+    transform: scale(1.05);
+    transition: transform 0.5s;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+
+}
+
+#list-page .item:hover .title a {
+    color: #00bfff
+}
+
+#job  {
+    font-weight: 400;
+    color: #0b1c2158;
+}

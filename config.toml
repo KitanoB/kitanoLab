@@ -6,9 +6,10 @@ theme = "mini"
 features = ["fast", "minimalist", "responsive"]
 licence = "MIT"
 
+
 [params]
   author = "Kitano Bjorgssen"
-  bio = "Software Engineer"
+  bio = "Software Engineer 🇫🇷 🇹🇭"
   enableRSS = false
   enableComments = true
   description = "Mon parcours dans la computer science"
@@ -19,7 +20,8 @@ licence = "MIT"
   showFooter = false
   showViewCounter = true
   hiddenPostSummaryInHomePage = true
-  customCSS = ["css/list.css"]
+  customCSS = [ "css/custom.css"]
+
 
 [menu]
     [[menu.main]]
