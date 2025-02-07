@@ -1,10 +1,8 @@
 +++
-title = "X - Arbe avl"
+title = "hidden - Arbe avl"
 description = "article about algorithmic"
-date = "2023-07-28"
+date = "2001-01-01"
 author = "Kitano B"
-enableComments = true
-draft = true
 +++
 
 # Arbres AVL: Fondamentaux et Applications

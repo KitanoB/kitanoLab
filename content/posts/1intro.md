@@ -1,21 +1,22 @@
 +++
-title = "1 - Algorithmique et structures de données: Objectif Leetcode 200"
-description = "article about algorithmic"
+title = "1 - Ma stratégie d'attaque"
+description = "blog post that describes what I will learn, why I will learn it, and how I will learn it"
 date = "2023-07-28"
 author = "Kitano B"
-enableComments = true
 +++
 
 # Algorithmique et structures de données: Mon parcours d'apprentissage
 
 ## Introduction
 
-En tant que développeur, la maîtrise de l'algorithmique et des structures de données est essentielle pour écrire des programmes efficaces et performants. Selon une enquête réalisée en 2023 par le site Stack Overflow, près de 70% des questions posées lors d'entretiens pour des postes de développeurs concernent directement ou indirectement ces deux sujets. Mon objectif ici est de partager mon parcours d'apprentissage, en documentant les étapes clés, les défis rencontrés, et les solutions trouvées.
+En tant que développeur, la maîtrise de l'algorithmique et des structures de données est essentielle. Ca pourrait se définir comme étant notre capacité à résoudre des problèmes le plus rapidement et le plus efficacement possible. C'est souvent une étape obligatoire lors des entretiens techniques. J'ai un avis plutôt mitigé sur la question. Je pense que l'algorithmique est une compétence importante, mais elle ne doit pas être le seul critère de sélection.
+Cependant, je suis convaincu que l'apprentissage de l'algorithmique et des structures de données est un excellent moyen d'améliorer ses compétences en programmation et de se préparer aux entretiens techniques. C'est pourquoi j'ai décidé de me lancer dans un parcours d'apprentissage intensif pour renforcer mes compétences dans ce domaine.
+Ce que nous allons découvrir, c'est que nous pouvons voir cela comme une boite à outils. Bien qu'un problème donné peut être résolu de différentes manières, l'objectif est de trouver la solution la plus efficace, en termes de temps et d'espace. La reconnaissance de schémas va nous permettre de passer un step supplémentaire dans notre réflexion.
 
-## Objectif Leetcode 200
-Etant un addict du subreddit [r/cscareerquestions]("https://www.reddit.com/r/cscareerquestions/"), j'ai souvent lu des histoires de développeurs qui ont réussi à décrocher un poste dans une grande entreprise après avoir résolu X challenges LeetCode. 
-Au delà de la mise en pratique des concepts théoriques, l'objectif de ce challenge est de se préparer aux entretiens techniques. En effet, les questions posées lors de ces entretiens sont souvent similaires à celles proposées sur LeetCode.
-On peut évidemment remettre en question ce chiffre de 200. Je vois souvent des screens de candidats qui ont résolu plus de 500 challenges, et qui n'ont pas réussi à décrocher un poste. Cependant, je pense que ce challenge est un bon point de départ pour se préparer aux entretiens techniques.
+## Objectif Leetcode 
+Etant un lecteur du subreddit [r/cscareerquestions], c'est banal de voir des "addicts aux plateformes d'algo" avec des scores de 1000 exos et obtenir des gros postes. 
+Au travers de mon experience, j'ai effectivement pu voir que les grandes entreprises internationales ont une facheuse tendance à poser des questions algorithmiques lors des entretiens techniques. C'est pourquoi, j'ai décidé de me fixer un objectif ambitieux: résoudre les 200 premiers challenges de LeetCode.
+Pourquoi 200 ? C'est un chiffre arbitraire, mais il est souvent cité comme un bon objectif pour se préparer aux entretiens techniques. En résolvant ces 200 challenges, je vais pouvoir renforcer mes compétences en algorithmique et en structures de données, et être mieux préparé pour les entretiens techniques.
 
 ## Phase 1: Compréhension de base
 
@@ -46,6 +47,13 @@ Dans cette phase finale, j'ai pour objectif de développer une expertise sur des
 L'apprentissage de l'algorithmique et des structures de données c'est pas toujours évident. C'est surtout une habitude à installer dans son quotidien. Ne pas se "focus" pendant 2h sur un même problème. Ne pas vouloir prendre d'indices, de solutions... Etre moins médiocre chaque jour. 
 Par l'entraînement régulier sur Leetcode et la lecture de ressources précieuses comme [Computer Science Distilled]("https://www.amazon.fr/Computer-Science-Distilled-Computational-Problems/dp/0997316020") , [Algorithms Illuminated Part]("https://www.amazon.com/Algorithms-Illuminated-Part-Graph-Structures/dp/0999282921"), et [Cracking the Coding Interview]("https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850"), je suis déterminé à renforcer mes compétences et à me préparer au mieux pour les entretiens techniques. 
 
-Je vous invite à me suivre dans ce parcours. Ensemble, nous pourrons apprendre, discuter et partager nos connaissances pour devenir de meilleurs développeurs. 
+Je vous invite à me suivre dans ce parcours. Je partagerai régulièrement mes progrès, mes réflexions et mes découvertes. N'hésitez pas à me donner vos conseils, vos retours d'expérience, ou à me poser des questions. 
+
+Encore une fois, je ne pense pas que l'algorithmique est un critère de selection absolu. Pour moi, la capacité à travailler en équipe, à communiquer efficacement, à apprendre de ses erreurs, à concevoir des systèmes évolutifs et robustes, sont tout aussi importants. 
+
+Mais je suis, premièrement, convaincu que l'algorithmique est une compétence essentielle pour tout développeur, et deuxièmement, que c'est le prix à payer si on veut passer un step dans sa carrière ainsi que son salaire.
+
+Donc si vous êtes prêt à vous lancer dans ce parcours avec moi, je vous dis à très bientôt pour le prochain article.
+
 
 Prochain article : Introduction à l'algorithmique et aux structures de données. À bientôt !

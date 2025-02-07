@@ -1,9 +1,8 @@
 +++
-title = "4 - Algorithmique et structures de données: Mon parcours d'apprentissage"
-description = "article about algorithmic"
-date = "2023-08-01"
+title = "5 - Programmation Dynamique: Quand et Comment l'Utiliser"
+description = "article about dynamic programming in computer science"
+date = "2023-07-31"
 author = "Kitano B"
-enableComments = true
 +++
 
 # Programmation Dynamique : Une Approche Efficace pour les Problèmes de Combinatoire

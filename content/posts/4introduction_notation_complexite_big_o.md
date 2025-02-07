@@ -1,9 +1,8 @@
 +++
-title = "3 - Introduction aux notations de complexité: Big O"
+title = "4 - Big O Notation: Complexité des Algorithmes Expliquée"
 description = "big o notation"
 date = "2023-07-30"
 author = "Kitano B"
-enableComments = true
 +++
 
 ---
