@@ -38,3 +38,6 @@ licence = "MIT"
 [taxonomies]
   tag = "tags"
   social = "social"
+
+[module]
+  ignoreConfig = true
