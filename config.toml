@@ -22,6 +22,8 @@ licence = "MIT"
   hiddenPostSummaryInHomePage = true
   customCSS = [ "css/custom.css"]
 
+[taxonomies]
+  social = "social"
 
 [menu]
     [[menu.main]]
